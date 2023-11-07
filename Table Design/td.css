@@ -1,0 +1,87 @@
+.tables{
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.solid{
+    background-color: blueviolet;
+    padding: 12px 10px;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    border: 2px solid orange;
+}
+
+.dashed{
+    background-color: blueviolet;
+    padding: 12px 10px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer; 
+    border: 2px dashed orange;
+}
+
+.dotted{
+    background-color: blueviolet;
+    padding: 12px 10px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+border: 2px dotted orange;
+}
+
+.groove{
+    background-color: blueviolet;
+    padding: 12px 10px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    border: 2px groove orange;
+}
+
+.ridge{
+    background-color: blueviolet;
+    padding: 12px 10px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    border: 2px ridge orange;
+}
+
+.inset{
+    background-color: blueviolet;
+    padding: 12px 10px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    border: 2px inset orange;
+}
+
+.outset{
+    background-color: blueviolet;
+    padding: 12px 10px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    border: 2px outset orange;
+}
+
+.none{
+    background-color: blueviolet;
+    padding: 12px 10px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    border: 2px none;
+}
+
+.double{
+    background-color: blueviolet;
+    padding: 12px 10px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    border: 2px double orange;
+}
